@@ -8,10 +8,6 @@ Proyek ini membuktikan bahwa satu **Ryu Controller** dapat menginstall flow rule
 menggunakan OpenFlow 1.0, sehingga dua host (H1 dan H2) dapat saling berkomunikasi
 melewati dua switch berbeda vendor tanpa konfigurasi manual di masing-masing switch.
 
-![OpenFlow](https://img.shields.io/badge/OpenFlow-1.0-green)
-![Python](https://img.shields.io/badge/Python-2.7-yellow)
-![Platform](https://img.shields.io/badge/Platform-GNS3-blue)
-![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
 ---
 
