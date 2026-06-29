@@ -85,24 +85,6 @@ Flow yang diinstall Ryu:
 
 ---
 
-## 📁 Struktur Repository
-
-```
-sdn-basic-forwarding/
-├── README.md
-├── scripts/
-│   ├── ryu_basic_forwarding_of10.py   ← Script utama Ryu Controller
-│   ├── start_ryu.sh                   ← Startup Ryu + set IP management
-│   ├── start_ovs.sh                   ← Startup OVS + konfigurasi bridge
-│   ├── start_h1.sh                    ← Startup H1 + static ARP
-│   └── start_h2.sh                    ← Startup H2 + static ARP
-├── configs/
-│   └── mikrotik_openflow.rsc          ← Perintah konfigurasi MikroTik
-└── docs/
-    └── USER_MANUAL.md                 ← Panduan lengkap + troubleshooting
-```
-
----
 
 ## 🚀 Menjalankan Proyek
 
@@ -255,21 +237,6 @@ H1 terima frame dengan dst MAC = H1 MAC ✅
 
 ---
 
-## 👤 Tentang Pengembang
-
-**[Nama Anda]** — Mahasiswa Teknik Informatika / Jaringan
-
-Proyek ini dikerjakan sebagai eksplorasi SDN multi-vendor di GNS3, menjembatani konsep
-teori OpenFlow dengan kendala nyata yang ditemukan saat menggunakan perangkat dari
-vendor berbeda dalam satu control plane terpusat.
-
----
-
-## 📄 Lisensi
-
-MIT License — bebas digunakan dan dikembangkan dengan menyertakan atribusi.
-
----
 
 <div align="center">
 
