@@ -236,6 +236,17 @@ H1 terima frame dengan dst MAC = H1 MAC ✅
 
 <div align="center">
 
-*Panduan lengkap step-by-step ada di [`docs/USER_MANUAL.md`](docs/USER_MANUAL.md)*
+## 🎥 Video Demonstrasi
+
+[![Tonton Demo](https://img.youtube.com/vi/0ZDeLfgoZr4/0.jpg)](https://www.youtube.com/watch?v=0ZDeLfgoZr4)
+
+> Klik gambar di atas untuk menonton video demonstrasi lengkap di YouTube.
+
+Video mencakup:
+- Penjelasan konsep SDN dan OpenFlow untuk pemula
+- Konfigurasi Ryu Controller, OVS, dan MikroTik step by step
+- Penjelasan menu OpenFlow di MikroTik RouterOS
+- Pengujian ping H1 ke H2 dengan verifikasi counter flow
+
 
 </div>
